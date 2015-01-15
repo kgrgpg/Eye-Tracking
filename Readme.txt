@@ -1,0 +1,1 @@
+In this project raw eye tracking data has been analyzed. The dataset consists of 6 subjects where each subject had approximately 20 sessions. In each session subject had to look at an image and recognize it. You can find the detailed description and documentation of the project in the repository as "Report.pdf"
